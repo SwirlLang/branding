@@ -1,11 +1,11 @@
-# Lambda Code brand assets
-This repository holds the brand assets of Lambda Code programming language.
+# Swirl brand assets
+This repository holds the brand assets of Swirl programming language.
 
-All logos are stored in the logos folder. lc-logo-project-file is the project file which can be opened in inkscape for editing.
+All logos are stored in the logos folder. svg files are the project file which can be opened in inkscape for editing.
 
 
 ## Conditions of usage
-The term "Lambda Code logo" or "LC logo" refers to the Lambda Code logo and other official artwork/mark.
+The term "Swirl logo" refers to the Swirl logo and other official artwork/mark.
 
 To use the logo you must attribute the author Mrinmoy Haloi. 
 
