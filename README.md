@@ -1,7 +1,7 @@
 # Swirl brand assets
-This repository holds the brand assets of Swirl programming language.
+This repository holds the brand assets of the Swirl programming language.
 
-All logos are stored in the logos folder. svg files are the project file which can be opened in inkscape for editing.
+All logos are kept in the `logos` folder. SVG files are the project files which can be opened in inkscape for editing.
 
 
 ## License
